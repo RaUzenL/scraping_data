@@ -1,0 +1,7 @@
+selenium==4.35.0
+selenium-wire==5.1.0
+beautifulsoup4==4.13.5
+pandas==2.3.2
+packaging>=24
+setuptools>=70
+blinker<1.9
